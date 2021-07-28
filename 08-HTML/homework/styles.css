@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+}
+  
+title {
+    color: salmon;
+    font-size: 30px;
+}
+  
+h1 {
+    color: blueviolet;
+    font-family: 'Lucida Sans';
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    color: blueviolet;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+a {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px; 
+    background-color: burlywood; 
+    padding: 50px; 
+    border-width: 2px; 
+    border: crimson; 
+    border-style: dashed;
+}
